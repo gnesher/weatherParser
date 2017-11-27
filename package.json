@@ -4,7 +4,7 @@
   "description": "simple parser for UK weather data, reads data from multiple files and export an aggregates report for excel",
   "main": "index.js",
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "glob": "^7.1.2",
     "moment": "^2.19.2",
